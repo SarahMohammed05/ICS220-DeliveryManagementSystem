@@ -14,7 +14,7 @@ The system handles delivery orders, manages logistics (e.g., package dimensions,
 - Lucidchart (or similar) for UML diagrams
 
 ## Usage
-1. Clone the repo: `git clone https://github.com/sarahmohammed/ICS220-DeliveryManagementSystem.git`
+1. Clone the repo: `git clone https://github.com/ SarahMohammed05/ICS220-DeliveryManagementSystem.git`
 2. Run `delivery_system.py` to test classes and generate a sample delivery note.
 3. View UML diagrams in `diagrams/`.
 
